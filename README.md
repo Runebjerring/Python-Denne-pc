@@ -278,7 +278,8 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analyst in the US - Technology oriented](3_project\Images%20from%20project\Most_Optimal_Skills_for_Data_Analyst_in_the_US_Technology.png)
+![Most Optimal Skills for Data Analyst in the US - Technology oriented](3_project/Images%20from%20project/Most_Optimal_Skills_for_Data_Analyst_in_the_US_Technology.png)
+
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology* 
 
